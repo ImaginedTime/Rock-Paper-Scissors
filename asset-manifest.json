@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ImaginedTime/Rock-Paper-Scissors.git/static/css/main.d7a9192e.css",
+    "main.js": "/ImaginedTime/Rock-Paper-Scissors.git/static/js/main.c494b6cb.js",
+    "index.html": "/ImaginedTime/Rock-Paper-Scissors.git/index.html",
+    "main.d7a9192e.css.map": "/ImaginedTime/Rock-Paper-Scissors.git/static/css/main.d7a9192e.css.map",
+    "main.c494b6cb.js.map": "/ImaginedTime/Rock-Paper-Scissors.git/static/js/main.c494b6cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7a9192e.css",
+    "static/js/main.c494b6cb.js"
+  ]
+}
